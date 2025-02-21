@@ -15,7 +15,7 @@
    console.log(greet)
 12. It is going to print " Not equal"
 13. Const is used if the value should not be changed,,var if the value should be defined and let if the value can be renamed  or redefined or assigned other values
-14. 
+ 
     
 
 
